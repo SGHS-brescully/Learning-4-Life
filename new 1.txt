@@ -1,0 +1,24 @@
+	<div id="link-bar-1"> 
+		<div class="link-box-1"> 
+			
+			<div id="menu-one">	
+					<a href="Practice Assessment-Home_page.html"> Home </a>
+			</div>
+
+			<div id="menu-two">	
+					<a href="L4l_about.html"> About </a>
+			</div>
+			
+			<div id="menu-three">	
+					<a> Classes </a>
+			</div>
+			
+			<div id="menu-four">	
+					<a href="L4l_signup.html"> Sign Up </a>
+			</div>
+			
+			<div id="menu-five">	
+					<a href="L4L_contact.html"> Contact </a>
+			</div>
+		</div>
+	</div> 
